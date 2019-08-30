@@ -11,7 +11,7 @@
 
 预训练词向量：[https://github.com/Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)或可自行用word2vec训练词向量
 
-1、搭建知识图谱：python grapy_build.py
+1、搭建知识图谱：python grapy_excel//grapy_build.py
 
 2、启动问答测试：python kbqa_demo.py
 
